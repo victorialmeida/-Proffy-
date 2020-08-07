@@ -18,9 +18,9 @@ Proffy is an online educational platform that allows student-teacher interaction
 * [Technologies Used](#TechnologiesUsed)
 * [Issues](#Issues-)
     * [Report](#Report)
-    * [Contributing](#Contributing-)
-    * [License](#License-)
-    * [Author](#Author-)
+* [Contributing](#Contributing-)
+* [License](#License-)
+* [Author](#Author-)
 
 
 ### Getting Started
@@ -66,14 +66,15 @@ Proffy is an online educational platform that allows student-teacher interaction
 
 You can report your problems in <a href="https://github.com/victorialmeida/-Proffy-/issues">Issues</a> section, this is really important.
 
-#### 🤝 Contributing :
-
+### 🤝 Contributing :
+######	🚧  This part is under construction...  🚧
 #### 📑 License :
-
 
 The license for this project is MIT, earn more about the <a href="https://github.com/victorialmeida/-Proffy-/blob/master/LICENSE.md">License</a> here.
 
-#### 🧠 Author :
+
+
+### 🧠 Author :
  <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/54548466?s=460&u=5fdbdf9c3f26222b533ff0bf614cd39e96ae0cab&v=4" width="100px;" alt=""/>
  <br /> 
  <sub>Victória Almeida 💜</sub>
