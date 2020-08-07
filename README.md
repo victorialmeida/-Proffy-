@@ -28,7 +28,6 @@ Proffy is an online educational platform that allows student-teacher interaction
 #### 📑 Features :
 - [X] Cadastro Professores;
 - [X] API Whatsapp;
-- [ ] 
 
 #### 💻 Prerequisites :
 * <a href="https://git-scm.com">Git</a><small>   (configure bash in the terminal).</small>
