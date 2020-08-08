@@ -26,7 +26,7 @@ Proffy is an online educational platform that allows student-teacher interaction
 ### Getting Started
 
 #### 📑 Features :
-- [X] Cadastro Professores;
+- [X] Teachers Register;
 - [X] API Whatsapp;
 
 #### 💻 Prerequisites :
