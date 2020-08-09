@@ -67,7 +67,20 @@ Proffy is an online educational platform that allows student-teacher interaction
 You can report your problems in <a href="https://github.com/victorialmeida/-Proffy-/issues">Issues</a> section, this is really important.
 
 ### 🤝 Contributing :
-######	🚧  This part is under construction...  🚧
+
+### First, you need a local fork of the project on your machine.
+$ gh repo fork victorialmeida/-Proffy-/
+### Clone your fork
+$ git clone https://github.com/victorialmeida/-Proffy-.git
+$ cd Proffy NLW
+#### Create a branch with your feature
+$ git add {modified file name}
+#### Make the commit with your changes
+$ git commit -m “Comments”
+#### Send the code to your remote branch
+$ git push origin {branch-name}
+
+
 #### 📑 License :
 
 The license for this project is MIT, earn more about the <a href="https://github.com/victorialmeida/-Proffy-/blob/master/LICENSE.md">License</a> here.
