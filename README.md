@@ -42,7 +42,8 @@ Proffy is an online educational platform that allows student-teacher interaction
 * <a href="https://nodejs.org/en/">Node Js</a><small>   (updated).</small>
 
 #### 💻 Web :
- ######	🚧  This part is under construction...  🚧
+
+######	🚧  This part is under construction...  🚧
 
 #### 📊 Server :
 ```
@@ -88,7 +89,6 @@ $ git push origin {branch-name}
 #### 📑 License :
 
 The license for this project is MIT, earn more about the <a href="https://github.com/victorialmeida/-Proffy-/blob/master/LICENSE.md">License</a> here.
-
 
 
 ### 🧠 Author :
