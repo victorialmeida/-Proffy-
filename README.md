@@ -28,6 +28,10 @@ Proffy is an online educational platform that allows student-teacher interaction
 #### 📑 Features :
 - [X] Teachers Register;
 - [X] API Whatsapp;
+- [ ]  Remove Schedule;
+- [ ]  Hearts Counters ;
+- [ ]  Dynamic favicon;
+- [ ]  Night mode;
 
 #### 💻 Prerequisites :
 * <a href="https://git-scm.com">Git</a><small>   (configure bash in the terminal).</small>
