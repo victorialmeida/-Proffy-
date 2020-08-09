@@ -27,7 +27,7 @@
         </div>
     </header>
     <main>
-        <form action="" id="create-class">
+        <form action="/save-classes" id="create-class" method="POST">
             <fieldset>
                 <legend> Seus dados</legend>
                 <div class="input-block">
@@ -55,7 +55,7 @@
                         <option value="">Selecione uma opção</option>
 
                         {%for subject in subjects %}
-                            <option value="{{loop.index}}" {{ "selected" if filters.subject == loop.index }} >
+                            <option value="{{loop.index}}">
                             {{subject}}
                             </option>
                         {%endfor%}
@@ -77,7 +77,7 @@
                 <div class="schedule-item">
                 <div class="select-block">
                     <label for="weekday">Dia da semana</label>
-                    <select name="weekday" required>
+                    <select name="weekday[]" required>
                         <option value="">Selecione uma opção</option>
 
                         {%for weekday in weekdays %}
@@ -108,6 +108,6 @@
         </footer>      
     </main> 
 </div>   
-<script src="/public/scripts/addField.js" defer></script>       
+     
 </body>
 </html>

@@ -79,7 +79,7 @@ The license for this project is MIT, earn more about the <a href="https://github
  <br /> 
  <sub>Victória Almeida 💜</sub>
 
- ##### " This whole project was done during NLW, keep coding! " 
+ ##### " This whole project was made during NLW, keep coding! " 
  <a href="https://www.linkedin.com/in/victória-almeida-5293321a4/">
 <img align="center" src="https://img.shields.io/static/v1?label=&message=Linkedin&color=3D008A&style=for-the-badge&logo=linkedin"/>
 </a>

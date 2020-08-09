@@ -38,7 +38,7 @@
                     </div>
                     <div class="select-block">
                         <label form="weekday" id="weekday">Dia Da Semana</label>
-                        <select name="weekday[]" required>
+                        <select name="weekday" required>
                             <option value="" disabled="" hidden="">Selecione uma opção</option>
                             {%for weekday in weekdays %}
                             <option value="{{loop.index0}}" {{ "selected" if filters.weekday == loop.index0 }} >
@@ -56,7 +56,9 @@
             </div>
         </header>
             <main>
-                
+            {% if proffys == ""%}
+                <p class="no-results"> Nenhum professor encontrado com a sua pesquisa.</p>
+            {% else %}
                 {%for proffy in proffys %}
                 <article class="teacher-item">
                     <header>
@@ -79,6 +81,7 @@
                     </footer>
                 </article>
                 {%endfor%}
+            {% endif %}   
             </main> 
     </div> 
      

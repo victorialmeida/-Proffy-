@@ -79,9 +79,12 @@
     margin-left: 0.8rem;
 }
 
-@media (max-width:659px){
+@media (max-width:1100px){
     :root{
         font-size: 40%;
+    }
+    .hero-img{
+        height: 8rem;
     }
 }
 
