@@ -1,0 +1,24 @@
+{
+  "name": "proffy-nlw",
+  "version": "1.0.0",
+  "description": "![Banner](https://user-images.githubusercontent.com/54548466/89668368-02bee800-d8b4-11ea-87fa-707f10720039.jpg)",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.2",
+    "sqlite-async": "^1.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "c"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
