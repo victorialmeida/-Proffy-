@@ -71,9 +71,9 @@ Proffy is an online educational platform that allows student-teacher interaction
 
 You can report your problems in <a href="https://github.com/victorialmeida/-Proffy-/issues">Issues</a> section, this is really important.
 
-### 🤝 Contributing :
-
-### First, you need a local fork of the project on your machine.
+### Contributing :
+ 
+### 🤝 First, you need a local fork of the project on your machine.
 $ gh repo fork victorialmeida/-Proffy-/
 ### Clone your fork
 $ git clone https://github.com/victorialmeida/-Proffy-.git
@@ -86,17 +86,17 @@ $ git commit -m “Comments”
 $ git push origin {branch-name}
 
 
-#### 📑 License :
+#### License :
 
-The license for this project is MIT, earn more about the <a href="https://github.com/victorialmeida/-Proffy-/blob/master/LICENSE.md">License</a> here.
+📑 The license for this project is MIT, earn more about the <a href="https://github.com/victorialmeida/-Proffy-/blob/master/LICENSE.md">License</a> here.
 
 
-### 🧠 Author :
+###  Author :
  <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/54548466?s=460&u=5fdbdf9c3f26222b533ff0bf614cd39e96ae0cab&v=4" width="100px;" alt=""/>
  <br /> 
  <sub>Victória Almeida 💜</sub>
 
- ##### " This whole project was made during NLW, keep coding! " 
+ ##### 🧠 " This whole project was made during NLW, keep coding! " 
  <a href="https://www.linkedin.com/in/victória-almeida-5293321a4/">
 <img align="center" src="https://img.shields.io/static/v1?label=&message=Linkedin&color=3D008A&style=for-the-badge&logo=linkedin"/>
 </a>
